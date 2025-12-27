@@ -168,3 +168,6 @@ Unknown formations are automatically parsed from the formation string.
 ## License
 
 MIT
+
+API_FOOTBALL_KEY=155685d89cfe0e64304d0f38d51d9743
+
