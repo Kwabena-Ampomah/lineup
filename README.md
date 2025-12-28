@@ -1,4 +1,4 @@
-# LineupPitch
+# LineupPitch 4054e4748c1e8363f95ab40ef0a3662f
 
 A Next.js 14 (App Router) TypeScript + Tailwind CSS application for viewing football match lineups with beautiful pitch visualizations. Built for deployment on Vercel with API-Football (API-Sports) v3.
 
